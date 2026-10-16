@@ -1,0 +1,50 @@
+From 19954909d7b01fa51237f1aad12b621195aa3439 Mon Sep 17 00:00:00 2001
+From: dashkalikov <dashkalikov@yandex.ru>
+Date: Fri, 16 Oct 2026 22:54:53 +0300
+Subject: [PATCH 2/4] =?UTF-8?q?[TRPO]=20=D0=A3=D0=B4=D0=B0=D0=BB=D1=91?=
+ =?UTF-8?q?=D0=BD=20=D0=BF=D0=B5=D1=80=D0=B2=D1=8B=D0=B9=20=D1=84=D0=B0?=
+ =?UTF-8?q?=D0=B9=D0=BB=20=D0=B8=20=D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB?=
+ =?UTF-8?q?=D0=B5=D0=BD=20=D1=87=D0=B5=D1=82=D0=B2=D1=91=D1=80=D1=82=D1=8B?=
+ =?UTF-8?q?=D0=B9=20=D1=84=D0=B0=D0=B9=D0=BB?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 1.txt | 7 -------
+ 4.txt | 7 +++++++
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+ delete mode 100644 1.txt
+ create mode 100644 4.txt
+
+diff --git a/1.txt b/1.txt
+deleted file mode 100644
+index 4561ee1..0000000
+--- a/1.txt
++++ /dev/null
+@@ -1,7 +0,0 @@
+-В конце ноября, в оттепель, часов в девять утра,
+-поезд Петербургско-Варшавской железной дороги
+-на всех парах подходил к Петербургу.
+-Генерал именно бил на эффект, чтобы разом 
+-заинтересовать, отвлечь всё как-нибудь в другую сторону.
+-
+-Лебедев посмотрел ему вслед. 
+\ No newline at end of file
+diff --git a/4.txt b/4.txt
+new file mode 100644
+index 0000000..ec1117e
+--- /dev/null
++++ b/4.txt
+@@ -0,0 +1,7 @@
++«Чрезвычайно странные люди!» — подумал князь Щ.,
++может быть в сотый уже раз с тех пор,
++как сошелся с ними, но ему нравились эти странные люди.
++Что же касается до князя, то, может быть,
++он ему и не слишком нравился;
++князь Щ. был несколько нахмурен и как бы озабочен,
++когда все вышли на прогулку.
+\ No newline at end of file
+-- 
+2.51.0.windows.1
+
